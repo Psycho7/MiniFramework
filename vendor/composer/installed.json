@@ -1,0 +1,34 @@
+[
+    {
+        "name": "noahbuscher/macaw",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/NoahBuscher/Macaw.git",
+            "reference": "ede398a876aa6c846756bc1b8ad92962ab298365"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/NoahBuscher/Macaw/zipball/ede398a876aa6c846756bc1b8ad92962ab298365",
+            "reference": "ede398a876aa6c846756bc1b8ad92962ab298365",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "time": "2014-12-23 22:41:20",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "NoahBuscher\\Macaw\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Sexy PHP router."
+    }
+]

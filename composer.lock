@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "d0916a84b2eb11228ed49f1ecf281613",
+    "packages": [
+        {
+            "name": "noahbuscher/macaw",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/NoahBuscher/Macaw.git",
+                "reference": "ede398a876aa6c846756bc1b8ad92962ab298365"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/NoahBuscher/Macaw/zipball/ede398a876aa6c846756bc1b8ad92962ab298365",
+                "reference": "ede398a876aa6c846756bc1b8ad92962ab298365",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "NoahBuscher\\Macaw\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Sexy PHP router.",
+            "time": "2014-12-23 22:41:20"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "noahbuscher/macaw": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
